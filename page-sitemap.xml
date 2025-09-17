@@ -23,6 +23,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/faq/</loc>
+		<lastmod>2025-09-17T15:51:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/05/pexels-aleksandar-cvetanovic-605352-1560424.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/about/</loc>
 		<lastmod>2025-09-12T14:03:01+00:00</lastmod>
 		<image:image>
@@ -41,13 +48,6 @@
 	<url>
 		<loc>/resources/useful-links/</loc>
 		<lastmod>2025-09-12T13:58:48+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/faq/</loc>
-		<lastmod>2025-09-12T13:56:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/05/pexels-aleksandar-cvetanovic-605352-1560424.jpg</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/contact/</loc>
